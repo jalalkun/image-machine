@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Image Machine</string>
+    <string name="machine_data">Machine Data</string>
+    <string name="code_reader">Code Reader</string>
+    <string name="validator_cant_empty">This field can\'t be empty</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="delete_image">Delete Image</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="date">Date</string>
+    <string name="add_machine_data">Add Machine Data</string>
+    <string name="detail_machine_data">Detail Machine Data</string>
+    <string name="original">Default</string>
+    <string name="name_asc">Name Asc</string>
+    <string name="name_desc">Name Desc</string>
+    <string name="type_asc">Type Asc</string>
+    <string name="type_desc">Type Desc</string>
+</resources>
